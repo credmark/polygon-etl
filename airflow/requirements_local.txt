@@ -1,5 +1,5 @@
 apache-airflow[google]==3.3.0       # similar to `composer-2.0.28-airflow-2.2.5`
-Flask==1.1.2                        # matches `composer-2.0.28-airflow-2.2.5`
+Flask==3.1.3                        # matches `composer-2.0.28-airflow-2.2.5`
 google-api-core==2.8.2              # matches `composer-2.0.28-airflow-2.2.5`
 google-cloud-bigquery==2.34.4       # matches `composer-2.0.28-airflow-2.2.5`
 google-cloud-storage==1.44.0        # matches `composer-2.0.28-airflow-2.2.5`
