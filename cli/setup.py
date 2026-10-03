@@ -37,7 +37,7 @@ setup(
         "base58==2.1.1",
         "blockchain-etl-common==1.6.1",
         "click>=7.0",
-        "eth-abi==1.3.0",
+        "eth-abi>=5.0.1",
         "eth-utils==1.8.4",
         "ethereum-dasm==0.1.4",
         "requests>=2.23",
